@@ -1,4 +1,13 @@
-### Hi there 👋
+<link href="style.css" rel="stylesheet"></link>
+<header class="flex" >
+  <div id="title-container" class="flex">
+    <h1> I'm Leonardo Pareja</h1>
+    <h2> Full-stack developer</h2>
+    <p class="h1" id="greetings">Hello people</p>
+  </div>
+  
+  <div id="pic-container"><img id="octogundam" src='./src/gundamcat.png' alt='gundamcar picture'/></div>
+</header>
 
 <!--
 **MacCrazyman/MacCrazyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

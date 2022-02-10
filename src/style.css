@@ -1,0 +1,35 @@
+header {
+  font-weight: bold;
+  justify-content: space-between;
+}
+
+h1 {
+  order: 2;
+}
+
+h3 {
+  order: 3;
+}
+
+.flex {
+  display: flex;
+}
+
+#greetings {
+  order: 1;
+}
+
+#title-container {
+  flex-direction: column;
+  flex-grow: 2;
+  flex-shrink: 1;
+}
+
+#pic-container {
+  flex-grow: 1;
+  flex-shrink: 2;
+}
+
+#octogundam {
+  width: 100%;
+}
